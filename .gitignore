@@ -1,0 +1,9 @@
+# Saved Artifactory credentials (created by jf_archive_summary.sh)
+.jfrog_aql_config_*
+
+# CSV export output (--csv flag)
+archive_export_*.csv
+archive_export_*.csv.gz
+
+# Scratch dir used during the per-repo AQL fallback
+aql_pages/
