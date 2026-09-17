@@ -5,5 +5,6 @@
 archive_export_*.csv
 archive_export_*.csv.gz
 
-# Scratch dir used during the per-repo AQL fallback
+# Others
 aql_pages/
+.DS_Store

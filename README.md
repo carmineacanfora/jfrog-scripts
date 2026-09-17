@@ -54,3 +54,6 @@ Adding a new script
 - Check prerequisites up front rather than failing deep into execution
 - Track the script's version in an internal variable, not the filename
 - Add a section to this README describing what it does and why
+```
+
+![jf_archive_summary.sh output](images/jf_archive_summary%20example.jpg)
